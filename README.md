@@ -8,7 +8,6 @@ This beginner project demonstrates YARA rule logic using harmless plain-text fil
 - `samples/sample_suspicious.txt` — plain text containing artificial indicators.
 - `samples/sample_clean.txt` — control file intended not to match.
 - `samples/sample_one_indicator.txt` — plain text containing one artificial indicator.
-- `evidence/screenshots/` — selected terminal screenshots in test order.
 - `reports/YARA_Project_Documentation.docx` — detailed report with test evidence.
 
 ## Rules
