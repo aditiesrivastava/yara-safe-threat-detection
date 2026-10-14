@@ -1,0 +1,2 @@
+SAFE TRAINING FILE
+simulated_indicator_alpha

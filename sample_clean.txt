@@ -1,0 +1,4 @@
+SAFE CLEAN TRAINING SAMPLE
+This is plain text for checking false positives.
+ordinary_document_text
+no simulated indicators are present here.

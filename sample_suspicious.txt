@@ -1,0 +1,5 @@
+SAFE YARA TRAINING SAMPLE
+This is plain text, not malware and not an executable.
+simulated_indicator_alpha
+simulated_indicator_beta
+training_context_2026
